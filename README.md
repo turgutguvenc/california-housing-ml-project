@@ -31,4 +31,4 @@ This project implements supervised learning algorithms to predict median house v
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run the main analysis: `jupyter notebook notebooks/final_analysis.ipynb`
+2. Run the main analysis: `california-housing-ml-project.ipynb`
