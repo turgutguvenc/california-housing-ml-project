@@ -20,9 +20,9 @@ This project implements supervised learning algorithms to predict median house v
 - Model interpretation and feature importance analysis
 
 ## Results Summary
-- **Best Model**: [Your best model]
-- **Test RMSE**: [Your result]
-- **R² Score**: [Your result]
+- **Best Model**: Voting Regressor (Ensemble Method: CatBoost, LightGBM, xgbOOST) 
+- **Test RMSE**: 43284.92
+- **R² Score**: 0.857
 
 ## Files Description
 - `notebooks/final_analysis.ipynb`: Complete analysis notebook
